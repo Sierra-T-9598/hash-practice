@@ -3,4 +3,9 @@ car = {
   "model" => "Forester",
   "mileage" => 167900
 }
-puts car
+
+animal = {
+  "name" => "dog",
+  "breed" => "dalmation"
+  "age" => 4
+}
